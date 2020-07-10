@@ -8,7 +8,7 @@ I'm a brazilian JavaScript fullstack developer!
 - 🚀 I’m currently learning TypeScript, React, NodeJS, MongoDB, PostgresSQL
 - 💪 I’m looking to collaborate on anything related to my skills
 - 💬 Languages I speak: Portuguese, English, Spanish and French
-- ⚡ Programming Language: JavaScript
+- 💻 Programming Language: JavaScript
 
 #### 📫 Please add or contact me on one of these social networks:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helcioitiyama/)](https://www.linkedin.com/in/helcioitiyama/)

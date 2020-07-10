@@ -6,7 +6,7 @@ I'm a brazilian JavaScript fullstack developer!
 
 #### Here are some facts about me:
 - 🚀 I’m currently learning TypeScript, React, NodeJS, MongoDB, PostgresSQL
-- 💪 I’m looking to collaborate on anything relating to my skills
+- 💪 I’m looking to collaborate on anything related to my skills
 - 💬 Languages I speak: Portuguese, English, Spanish and French
 - ⚡ Programming Language: JavaScript
 

@@ -1,14 +1,14 @@
 # Hello World 👋
 
 ### My name is Helcio Itiyama 👨‍💻
-I'm a brazilian JavaScript fullstack developer!
+I'm a brazilian React Native developer!
 
 
 #### Here are some facts about me:
 - 💪 I’m looking to collaborate on anything related to my skills
 - 💬 Languages I speak: Portuguese, English, Spanish and French
-- 💻 Programming Language & Technologies: JavaScript, TypeScript, ReactJS, React-Native, NodeJS, MongoDB, PostgresSQL
-- 👨‍🏫  Learning at the moment: Angular, NextJS, GraphQL
+- 💻 Programming Language & Technologies: JavaScript, TypeScript, React-Native, Styled-Components, Firebase, Google Cloud, Storybook, Jest
+- 👨‍🏫  Learning at the moment: Kotlin, GraphQL
 <!-- 
 #### 📫 Please add or contact me on one of these social networks:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helcioitiyama/)](https://www.linkedin.com/in/helcioitiyama/)
